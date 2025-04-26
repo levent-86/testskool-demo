@@ -17,7 +17,7 @@ The "Edit Profile" feature of "My Profile" page allows users to:
 - **Containerization**: Docker for environment consistency
 
 ## Demo Video
-[Watch the My Profile feature in action](https://youtu.be/-GQTqzCT2Sc)
+<a href="https://youtu.be/-GQTqzCT2Sc" target="_blank">Watch the Edit Profile feature in action</a>
 
 ## Code Highlights
 - **Modular Components**: Reusable React components with Material-UI
